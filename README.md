@@ -1,5 +1,7 @@
 # Mostro Core
 
+Doing test for new ci.yml
+
 Mostro Core is a Rust-based library that provides peer-to-peer functionality for decentralized applications. It serves as the foundation for building Mostro daemon.
 
 ## Requirements
